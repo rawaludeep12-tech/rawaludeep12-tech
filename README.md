@@ -1,5 +1,17 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Expert Education & Visa Services<br>- 🌱 I’m currently learning Bscs IT 
+### Hi there, I'm Udip Rawal 👋
+
+I am an aspiring Web Developer with a professional background in digital marketing and communications. I am passionate about blending my understanding of user engagement with technical problem-solving to build clean, responsive, and impactful web applications. 
+
+* 🎓 **Currently Studying:** University of Sunderland (ISMT College)
+* 💼 **Currently Working:** Digital Marketing and Communication Coordinator at Expert Education and Visa Services
+* 🚀 **Currently Focusing On:** Transitioning into full-time software development and building projects with React and Next.js.
+* 📫 **How to reach me:** [Insert your email or LinkedIn link here]
+
+### 🛠 Tech Stack
+* **Core Languages:** JavaScript, HTML5, CSS3
+* **Frameworks & Libraries:** Next.js
+* **Other Skills:** Digital Marketing, SEO, Effective Communicatio
 
 
 ## 🌐 Socials:
