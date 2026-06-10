@@ -6,7 +6,7 @@ I am an aspiring Web Developer with a professional background in digital marketi
 * 🎓 **Currently Studying:** University of Sunderland (ISMT College)
 * 💼 **Currently Working:** Digital Marketing and Communication Coordinator at Expert Education and Visa Services
 * 🚀 **Currently Focusing On:** Transitioning into full-time software development and building projects with React and Next.js.
-* 📫 **How to reach me:** [Insert your email or LinkedIn link here]
+* 📫 **How to reach me:** rawaudeep12@gmail.com
 
 ### 🛠 Tech Stack
 * **Core Languages:** JavaScript, HTML5, CSS3
